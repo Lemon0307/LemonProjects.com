@@ -7,3 +7,11 @@ p {
 body{
 background-color: green;
 }
+
+.content {
+background color: white;
+width: auto;
+padding: auto;
+margin: auto;
+
+}
